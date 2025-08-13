@@ -1,2 +1,15 @@
 # seyma-goker
-certificates
+## Certificates
+[Uygulamalı_Figma_Sertifika.pdf](https://github.com/user-attachments/files/21753252/Uygulamali_Figma_Sertifika.pdf) <br>
+[İletişim_ve_Network_Yönetimi_Sertifika.pdf](https://github.com/user-attachments/files/21753251/Iletisim_ve_Network_Yonetimi_Sertifika.pdf) <br>
+[Veri_Tabanı_Saldırıları_ve_Veri_Tabanı_Güvenliği_Sertifika.pdf](https://github.com/user-attachments/files/21753250/Veri_Tabani_Saldirilari_ve_Veri_Tabani_Guvenligi_Sertifika.pdf) <br>
+[Sosyal_Medya_Uzmanlığına_Giriş_Sertifika.pdf](https://github.com/user-attachments/files/21753249/Sosyal_Medya_Uzmanligina_Giris_Sertifika.pdf) <br>
+[C#_Programlama_Sertifika.pdf](https://github.com/user-attachments/files/21753248/C._Programlama_Sertifika.pdf) <br>
+[Uygulamalarla_Nesne_Yönelimli_Programlama_Sertifika.pdf](https://github.com/user-attachments/files/21753247/Uygulamalarla_Nesne_Yonelimli_Programlama_Sertifika.pdf) <br>
+[Ağ_Temelleri_Sertifika.pdf](https://github.com/user-attachments/files/21753245/Ag_Temelleri_Sertifika.pdf) <br>
+[Temel_Ağ_Teknolojileri_Sertifika.pdf](https://github.com/user-attachments/files/21753243/Temel_Ag_Teknolojileri_Sertifika.pdf) <br>
+[Yazılım_Tasarım_Desenleri_Sertifika.pdf](https://github.com/user-attachments/files/21753242/Yazilim_Tasarim_Desenleri_Sertifika.pdf) <br>
+[Algoritma_Programlama_ve_Veri_Yapılarına_Giriş_Sertifika.pdf](https://github.com/user-attachments/files/21753241/Algoritma_Programlama_ve_Veri_Yapilarina_Giris_Sertifika.pdf) <br>
+[Veri_Bilimi_için_Temel_İstatistik_Sertifika.pdf](https://github.com/user-attachments/files/21753240/Veri_Bilimi_icin_Temel_Istatistik_Sertifika.pdf) <br>
+[Microsoft_Azure_ile_Bulut_Bilişim_Sertifika.pdf](https://github.com/user-attachments/files/21753239/Microsoft_Azure_ile_Bulut_Bilisim_Sertifika.pdf) <br>
+[Versiyon_Kontrolleri__Git_ve_GitHub_Sertifika.pdf](https://github.com/user-attachments/files/21753238/Versiyon_Kontrolleri__Git_ve_GitHub_Sertifika.pdf) <br>
