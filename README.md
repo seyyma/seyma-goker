@@ -1,4 +1,3 @@
-# seyma-goker
 ## Certificates
 [Uygulamalı_Figma_Sertifika.pdf](https://github.com/user-attachments/files/21753252/Uygulamali_Figma_Sertifika.pdf) <br>
 [İletişim_ve_Network_Yönetimi_Sertifika.pdf](https://github.com/user-attachments/files/21753251/Iletisim_ve_Network_Yonetimi_Sertifika.pdf) <br>
