@@ -12,3 +12,4 @@
 [Veri_Bilimi_için_Temel_İstatistik_Sertifika.pdf](https://github.com/user-attachments/files/21753240/Veri_Bilimi_icin_Temel_Istatistik_Sertifika.pdf) <br>
 [Microsoft_Azure_ile_Bulut_Bilişim_Sertifika.pdf](https://github.com/user-attachments/files/21753239/Microsoft_Azure_ile_Bulut_Bilisim_Sertifika.pdf) <br>
 [Versiyon_Kontrolleri__Git_ve_GitHub_Sertifika.pdf](https://github.com/user-attachments/files/21753238/Versiyon_Kontrolleri__Git_ve_GitHub_Sertifika.pdf) <br>
+[Uygulamalı_Canva_Sertifika.pdf](https://github.com/user-attachments/files/21852052/Uygulamali_Canva_Sertifika.pdf) <br>
